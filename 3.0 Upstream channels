@@ -1,0 +1,14 @@
+3.0 Upstream channels
+Channel	Frequency (Hz)	Power (dBmV)	Symbol Rate (ksps)	Modulation	Channel ID
+1	32600000	41.520599	5120 KSym/sec	64QAM	5
+2	39400000	41.770599	5120 KSym/sec	64QAM	4
+3	46200000	41.770599	5120 KSym/sec	64QAM	3
+4	53700000	42.020599	5120 KSym/sec	64QAM	2
+
+
+3.0 Upstream channels
+Channel	Channel Type	T1 Timeouts	T2 Timeouts	T3 Timeouts	T4 Timeouts
+1	US_TYPE_STDMA	0	0	1	0
+2	US_TYPE_STDMA	0	0	1	0
+3	US_TYPE_STDMA	0	0	1	0
+4	US_TYPE_STDMA	0	0	1	0
